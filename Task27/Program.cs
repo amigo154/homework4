@@ -17,4 +17,4 @@ int GetCountSum(int number)  // функция
 }
 
 int function = GetCountSum(num); // вызвали функцию
-Console.WriteLine($"количество цифр в числе {num} получилось {function}");
+Console.WriteLine($"сумма цифр в числе {num} равна {function}");
